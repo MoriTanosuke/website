@@ -1,6 +1,6 @@
 ---
 content_template: templates/concept
-title: Zur Kubernets-Dokumentation beitragen
+title: Zur Kubernetes-Dokumentation beitragen
 linktitle: Mitmachen
 main_menu: true
 weight: 80
